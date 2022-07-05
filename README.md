@@ -15,5 +15,5 @@ The official implementation of paper "Accelerating Numerical Solvers for Large-s
 NeurVec is an open-source and data-driven corrector, which can break through the speed-accuracy trade-off of the large-scale simulations for dynamical systems. NeurVec can be easily plugged into the existing numerical solver, e.g. Euler methond, Runge–Kutta method, etc.
 
 <p align="center">
-  <img src="https://github.com/dedekinds/NeurVec/blob/main/image/github.png" width = "630" height = "340">
+  <img src="https://github.com/dedekinds/NeurVec/blob/main/image/github.png" >
 </p>
