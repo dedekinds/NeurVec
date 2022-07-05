@@ -8,3 +8,8 @@ By [Zhongzhan Huang](https://dedekinds.github.io/), [Senwei Liang](https://leung
 
 
 The official implementation of paper "Accelerating Numerical Solvers for Large-scale Simulation of Dynamical system via NeurVec"
+
+
+
+## Introduction
+NeurVec is an open-source and data-driven corrector, which can break through the speed-accuracy trade-off of the large-scale simulations for dynamical systems. NeurVec can be easily plugged into the existing numerical solver, e.g. Euler methond, Runge–Kutta method, etc.
