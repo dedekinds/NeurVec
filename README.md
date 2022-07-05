@@ -17,3 +17,14 @@ NeurVec is an open-source and data-driven corrector, which can break through the
 <p align="center">
   <img src="https://github.com/dedekinds/NeurVec/blob/main/image/github.png" width = "830" height = "540">
 </p>
+
+## Requirement
+* Python 3.7 
+* [PyTorch 1.11](http://pytorch.org/)
+
+
+## Citation
+If you find this paper helps in your research, please kindly cite 
+
+## Acknowledgement
+We would like to thank zhengdao chen for his pytorch version of [SRNN](https://github.com/zhengdao-chen/SRNN) and Travis for his/her [tutorial](https://travisdoesmath.github.io/pendulum-explainer/).
