@@ -22,6 +22,10 @@ NeurVec is an open-source and data-driven corrector, which can break through the
 * Python 3.7 
 * [PyTorch 1.11](http://pytorch.org/)
 
+## Dataset and pre-train model
+* Dateset [[Baidu]()] [[Google]()]
+* Pre-train model [[Baidu]()] [[Google]()]
+
 
 ## Citation
 If you find this paper helps in your research, please kindly cite 
