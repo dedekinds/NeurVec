@@ -1,0 +1,1 @@
+* Download the pre-train model [[Google](https://drive.google.com/drive/folders/1rO59snwIbig2gH-d0Y058-4mUQJ-riUw?usp=sharing)] [[Baidu](https://pan.baidu.com/s/1IYoTwobzFZfZ1Kd3rc76IA)]  (verification code: sixu) in this folder.
