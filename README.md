@@ -23,8 +23,8 @@ NeurVec is an open-source and data-driven corrector, which can break through the
 * [PyTorch 1.11](http://pytorch.org/)
 
 ## Dataset and pre-train model
-* Dateset [[Google](https://drive.google.com/drive/folders/1nyiiGsp0QXCsLV1cW8qmH38Bp1VE4mjP?usp=sharing)] [[Baidu](https://pan.baidu.com/s/1IYoTwobzFZfZ1Kd3rc76IA)]  (verification code: sixu)
-* Pre-train model [[Google](https://drive.google.com/drive/folders/1rO59snwIbig2gH-d0Y058-4mUQJ-riUw?usp=sharing)] [[Baidu](https://pan.baidu.com/s/1-0OXyoJqu_-44xTY47IQJg)] (verification code: g1pd)
+* Dateset [[Google](https://drive.google.com/drive/folders/1nyiiGsp0QXCsLV1cW8qmH38Bp1VE4mjP?usp=sharing)] [[Baidu](https://pan.baidu.com/s/1-0OXyoJqu_-44xTY47IQJg)] (verification code: g1pd)
+* Pre-train model [[Google](https://drive.google.com/drive/folders/1rO59snwIbig2gH-d0Y058-4mUQJ-riUw?usp=sharing)] [[Baidu](https://pan.baidu.com/s/1IYoTwobzFZfZ1Kd3rc76IA)]  (verification code: sixu)
 
 
 ## Citation
